@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756665886a4b27440a8fe4d543458875, type: 3}
+  m_Name: Space Level Settings
+  m_EditorClassIdentifier: 
+  swingData: {fileID: 11400000, guid: d81f113460edd254590d11f3d8b9de4e, type: 2}
+  ballVariants:
+  - {fileID: 11400000, guid: b9c62fac98bced64788153f8374b98f2, type: 2}
+  - {fileID: 11400000, guid: 46dfbb011349d3f4595cc976b826eee4, type: 2}
+  - {fileID: 11400000, guid: e77f9fa0207708e4886f10c9769437c1, type: 2}
+  backgroundPrefab: {fileID: 3876042476609120045, guid: e327bc17f8d275d43ae3955370d4bfac, type: 3}

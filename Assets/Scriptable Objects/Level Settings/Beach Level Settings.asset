@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756665886a4b27440a8fe4d543458875, type: 3}
+  m_Name: Beach Level Settings
+  m_EditorClassIdentifier: 
+  swingData: {fileID: 11400000, guid: 822ffa22b7905da41b79963ebefe7e98, type: 2}
+  ballVariants:
+  - {fileID: 11400000, guid: aa8d5839debe8bf4393afaf436898f94, type: 2}
+  - {fileID: 11400000, guid: cd107803302921844b7927962a56123c, type: 2}
+  - {fileID: 11400000, guid: b9c62fac98bced64788153f8374b98f2, type: 2}
+  backgroundPrefab: {fileID: 3876042476609120045, guid: 79a284c012772564f8b0ceb8e64b30e5, type: 3}
